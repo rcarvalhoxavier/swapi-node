@@ -266,10 +266,3 @@ test('GET planets - with error', (t) => {
   });
 });
 
-
-
-
-
-
-
-
